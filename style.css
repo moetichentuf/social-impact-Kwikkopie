@@ -1,10 +1,18 @@
-header {
-  color: white;
-}
+.navbar{
+    background-color: white;
 
-body {
-  background-color: red;
-  color: black;
 }
+.nav-link{
+color: cornflowerblue ;
+}
+.carousel-control-next-icon{
 
-/*# sourceMappingURL=style.css.map */
+    color: red;
+    background-color: darkblue;
+}
+body{
+
+    background-color: lightblue;
+
+
+}
