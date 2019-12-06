@@ -4,12 +4,13 @@ nav{
 }
 .navbar-brand{
 
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Sulphur Point', cursive;
 
 }
 .nav-link{
 color: dodgerblue ;
     font-family: 'Sulphur Point', sans-serif;
+    font-size: 20px;
 
 }
 .carousel-control-next-icon, .carousel-control-prev-icon{
@@ -23,18 +24,19 @@ color: dodgerblue ;
 
 }
 body{
-
+    color: dodgerblue;
     background-color: white;
 
 
 }
 
 .navbar-toggler{
-    background-color: dodgerblue;
-    color: white;
-    border-right: 15px solid dodgerblue;
-   height: 30px;
-    
+
+    color: dodgerblue;
+    border-left:4px solid  dodgerblue;
+
+
+
 
 }
 
