@@ -2,11 +2,35 @@ nav{
 
     border-bottom: 2px solid dodgerblue;
 }
+
+.card-title{
+
+     font-family: "Bebas Neue";
+    font-size: 25px;
+}
+
+li{
+
+    list-style-type: none;
+    text-align: left;
+
+    margin-bottom: 15px;
+}
+
+#carouselExampleIndicators{
+
+        
+    background-color: dodgerblue;
+    
+}
 .navbar-brand{
 
-    font-family: 'Sulphur Point', cursive;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+
 
 }
+
 .nav-link{
 color: dodgerblue ;
     font-family: 'Sulphur Point', sans-serif;
@@ -17,7 +41,7 @@ color: dodgerblue ;
     height: 50px;
     width: 50px;
     outline: black;
-    background-color: dodgerblue;
+  
     background-size: 100%, 100%;
     border-radius: 50%;
     border: 5px  dodgerblue;
@@ -33,7 +57,7 @@ body{
 .navbar-toggler{
 
     color: dodgerblue;
-    border-left:4px solid  dodgerblue;
+  
 
 
 
