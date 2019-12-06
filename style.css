@@ -1,9 +1,16 @@
-.navbar{
-    background-color: white;
+nav{
+
+    border-bottom: 2px solid dodgerblue;
+}
+.navbar-brand{
+
+    font-family: 'Bebas Neue', cursive;
 
 }
 .nav-link{
 color: dodgerblue ;
+    font-family: 'Sulphur Point', sans-serif;
+
 }
 .carousel-control-next-icon, .carousel-control-prev-icon{
     height: 50px;
@@ -17,16 +24,17 @@ color: dodgerblue ;
 }
 body{
 
-    background-color: lightblue;
+    background-color: white;
 
 
 }
+
 .navbar-toggler{
     background-color: dodgerblue;
-    color: red;
-}
-.navbar-toggler-icon{
-    background-color: white;
+    color: white;
+    border-right: 15px solid dodgerblue;
+   height: 30px;
+    
 
 }
 
