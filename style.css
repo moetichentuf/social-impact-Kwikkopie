@@ -34,8 +34,8 @@ li{
 
 #carouselExampleIndicators{
 
-        
-    background-color: dodgerblue;
+       background-size: 50%; 
+    background-image: url("kwikkopie.jpg");
     
 }
 .navbar-brand{
